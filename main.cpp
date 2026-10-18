@@ -7,5 +7,7 @@ int main() {
     std::cout << a - b;
     return 0;
 }
+
 //struktura 1
 //struktura 2
+// structure 3
