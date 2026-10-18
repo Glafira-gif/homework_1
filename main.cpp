@@ -12,5 +12,5 @@ int main() {
 //struktura 2
 // structure 3
 //rebased
-//rebased2
+//rebase
 //rebase
